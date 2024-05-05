@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3",LED_D10.0mm,3,LED,
+J1,SEEEDSTUDIO_114020164,1,Conn_01x04_Socket,
+"Q1, Q2, Q3",SOT-23-3,3,NPN,
+"R1, R2, R3",0603,3,R,
+U1,SOP-16_3.9x9.9mm_P1.27mm,1,74HC238,
+"U2, U3",LEGO HOLE 4.5-6.5,2,~,
